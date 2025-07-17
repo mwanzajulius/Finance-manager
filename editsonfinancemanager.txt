@@ -1,0 +1,13 @@
+EDITS ON FINANCE MANAGER
+-balance is not reflecting on the budget side like home page
+-transaction db is not working
+-work on UI
+-the transaction and saving tables should show transactions made...not necessarily a graph
+-in budget menu, remove the enter your name n put enter name of transaction ama put options instead just like in transactions
+-in add transaction add options for transaction type
+-also add categories ama just do away with it 
+-on savings you have not put an option to add savings to an already present saving
+-cannot add savings on the savings dashaboard and also the table is not reflecting the current saving added
+-amount is only reflecting on home page so work on that
+-also make it so that only one tab opens at a time..cause i see that other than when i don't completely log out of the system all the tabs can be open at the same time..poor 
+-but the system is amazing...let's make it best sasa
